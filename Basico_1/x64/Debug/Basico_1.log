@@ -1,0 +1,6 @@
+﻿  Compiling CUDA source file practica.cu...
+  
+  C:\Users\Ronri\source\repos\Basico_1\Basico_1>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.6\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.6\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.6\include"  -G   --keep-dir x64\Debug  -maxrregcount=0  --machine 64 --compile -cudart static  -g  -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc143.pdb /FS /Zi /RTC1 /MDd " -o C:\Users\Ronri\source\repos\Basico_1\Basico_1\x64\Debug\practica.cu.obj "C:\Users\Ronri\source\repos\Basico_1\Basico_1\practica.cu" 
+  practica.cu
+     Creando biblioteca C:\Users\Ronri\source\repos\Basico_1\x64\Debug\Basico_1.lib y objeto C:\Users\Ronri\source\repos\Basico_1\x64\Debug\Basico_1.exp
+  Basico_1.vcxproj -> C:\Users\Ronri\source\repos\Basico_1\x64\Debug\Basico_1.exe
